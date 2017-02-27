@@ -6,7 +6,7 @@ and do the same on the other side;
 
 Make sure you run server.java files on both systems first and then run the ChatClient.java file.
 
-
+<pre>
 On system 1
 javac *.java;
 java Server.class &;
@@ -18,3 +18,4 @@ java Server.class &;
 java ChatClient.class;
 
 
+</pre>
